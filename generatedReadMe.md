@@ -1,13 +1,13 @@
 ![GitHub] 
-  https://img.shields.io/badge/license-Apache License 2.0-blue.svg
+  https://img.shields.io/badge/license-ISC-blue.svg
   
-  # Read Me Generator 
+  # Notepad 
     
   ## Use
-  Allow a user to build a proffessional readme.
+  This application is used for creating and storing notes.
     
   ## Why
-  To build out a readme file.
+  Someone would use this project to store notes based around the desired information.
     
     ## Table of Contents
     * [Installation](#installation)
@@ -18,22 +18,22 @@
     * [Questions](#questions)
 
   ## Installation:
-    in terminal or bash
+    Someone would need to have the Express package installed in terminal and through that set up a local host to send and recieve data.
   
   ## Usage
-    By downloading node.js and installing an inquirer package
+    Someone uses this project from the depoloyed site but would need to be connected to the correct database built through a local host.
   
   ## Collaborators
-    no
+    Maksim Verkhoturov, Paul James and Kim Haskell were collaborators on this project.
 
   ## Licensing
-    This project is covered under a Apache License 2.0 license.
+    This project is covered under a ISC license.
   
   ## Tests
-    not at this moment
+    Currently there is no way to run tests on this program.
   
   ## Questions
     
   https://github.com/Jdusang1
     
-  Email: Jdusang1@gmail.com
+  Email: Johndusang1@gmail.com
